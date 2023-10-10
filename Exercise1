@@ -1,0 +1,4 @@
+Create a database to store information */
+SHOW DATABASES;
+CREATE DATABASE schools;
+SHOW DATABASES
